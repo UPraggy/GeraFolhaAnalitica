@@ -1,0 +1,420 @@
+﻿====================================================================================================================================
+EMPRESA TESTE PROJETO                            FOLHA ANALITICA DEZEMBRO DE 2022                                     V.32.1.30.208
+                                                         Nome fantasia empresa Teste                       Emissão: 09/01/2023 18:53:55
+50.666.323/0001-21                                  Comp: 01/2023 - Cx: 0 - Per: 3                      Seção: 13
+====================================================================================================================================
+Chapa - Nome do Funcionário                                    Função                                    Situação                   
+Admissão      Demissão              Salário    Seção                                  Status Movimento   Início - Fim Últ. Afast.   
+------------------------------------------------------------------------------------------------------------------------------------
+5247 - João Gabriel Monteiro                             ASSISTENTE DE OPERAÇÕES                   Ativo                      
+13/06/2022                          1.760,96   13.722.125.2.039.0001.01 - Diretoria TéPR                                            
+                                                                                                                                     
+0002 DIAS TRABALHADOS                          30      1.760,96   0003 I.N.S.S.                                   9        150,73  
+0123 ADICIONAL NOTURNO                       3,83         13,50   0563 UNIPART ENFERMARIA                         0        125,67  
+0124 REFLEXO HORA EXTRA E AD. NOTURNO           0          3,25   0576 COPARTICIPAÇÃO - ASSIST. MÉDICA            0         81,00  
+0217 HE COMPL.HORA NOTURNA                      0          8,44                                                                    
+0395 DIA EM DOBRO(HORAS)                        6        105,66                                                                    
+0558 UNIPART ENFERMARIA TITULAR                 0        125,67 B                                                                  
+                                                                                                                                     
+Proventos             1.891,81    Descontos               357,40    Líquido               1.534,41                                  
+FGTS Dep.               151,34    INSS Empresa            378,36    Base IRRF             1.891,81                                  
+FGTS 13º Dep.             0,00    INSS SAT                 18,92    Base IRRF 13º             0,00                                  
+FGTS Dep. (SEFIP)       151,34    INSS Terceiro            85,13    Base IRRF Férias          0,00                                  
+FGTS 13º Dep. (SEFI       0,00    INSS Total (Emp+SAT     482,41                                                                    
+Base FGTS             1.891,81    INSS SAT Ajustado         9,46                                                                    
+Base FGTS 13º             0,00    INSS (Emp+SAT_Ajust     472,95                                                                    
+Base FGTS (SEFIP)     1.891,81    INSS Segurado           150,73                                                                    
+Base FGTS 13º (SEFI       0,00    Estorno INSS              0,00                                                                    
+Base FGTS Afast.          0,00    Base INSS - GPS       1.891,81                                                                    
+                                  Base INSS - Envelop   1.891,81                                                                    
+                                  Base INSS 13º - GPS       0,00                                                                    
+                                  Base INSS 13º - Env       0,00                                                                    
+------------------------------------------------------------------------------------------------------------------------------------
+5263 - Milena Rocha                                       ASSESSOR/APRESENTADOR/LOCUTOR I           Ativo                      
+01/06/2022                          1.760,96   13.722.701.4.248.0001.01 - Diretoria ArPR                                            
+                                                                                                                                     
+0002 DIAS TRABALHADOS                          30      1.760,96   0003 I.N.S.S.                                   9        138,95  
+0556 UNIFACIL ENFERMARIA TITULAR                0        392,22 B 0562 UNIFACIL ENFERMARIA                        0        392,22  
+                                                                                                                                     
+Proventos             1.760,96    Descontos               531,17    Líquido               1.229,79                                  
+FGTS Dep.               140,88    INSS Empresa            352,19    Base IRRF             1.760,96                                  
+FGTS 13º Dep.             0,00    INSS SAT                 17,61    Base IRRF 13º             0,00                                  
+FGTS Dep. (SEFIP)       140,88    INSS Terceiro            79,24    Base IRRF Férias          0,00                                  
+FGTS 13º Dep. (SEFI       0,00    INSS Total (Emp+SAT     449,04                                                                    
+Base FGTS             1.760,96    INSS SAT Ajustado         8,80                                                                    
+Base FGTS 13º             0,00    INSS (Emp+SAT_Ajust     440,24                                                                    
+Base FGTS (SEFIP)     1.760,96    INSS Segurado           138,95                                                                    
+Base FGTS 13º (SEFI       0,00    Estorno INSS              0,00                                                                    
+Base FGTS Afast.          0,00    Base INSS - GPS       1.760,96                                                                    
+                                  Base INSS - Envelop   1.760,96                                                                    
+                                  Base INSS 13º - GPS       0,00                                                                    
+                                  Base INSS 13º - Env       0,00                                                                    
+------------------------------------------------------------------------------------------------------------------------------------
+3654 - Letícia Gonçalves                           COORDENADOR DE MANUTENÇÃO TÉCNICA         Ativo                      
+01/06/2022                          3.081,68   13.722.125.2.039.0001.01 - Diretoria TéPR                                            
+                                                                                                                                     
+0002 DIAS TRABALHADOS                          30      3.081,68   0003 I.N.S.S.                                  12        295,31  
+0395 DIA EM DOBRO(HORAS)                        6        184,90   0004 I.R.R.F.                                  15         90,89  
+                                                                                                                                     
+Proventos             3.266,58    Descontos               386,20    Líquido               2.880,38                                  
+FGTS Dep.               261,33    INSS Empresa            653,32    Base IRRF             3.266,58                                  
+FGTS 13º Dep.             0,00    INSS SAT                 32,67    Base IRRF 13º             0,00                                  
+FGTS Dep. (SEFIP)       261,33    INSS Terceiro           147,00    Base IRRF Férias          0,00                                  
+FGTS 13º Dep. (SEFI       0,00    INSS Total (Emp+SAT     832,98                                                                    
+Base FGTS             3.266,58    INSS SAT Ajustado        16,33                                                                    
+Base FGTS 13º             0,00    INSS (Emp+SAT_Ajust     816,65                                                                    
+Base FGTS (SEFIP)     3.266,58    INSS Segurado           295,31                                                                    
+Base FGTS 13º (SEFI       0,00    Estorno INSS              0,00                                                                    
+Base FGTS Afast.          0,00    Base INSS - GPS       3.266,58                                                                    
+                                  Base INSS - Envelop   3.266,58                                                                    
+                                  Base INSS 13º - GPS       0,00                                                                    
+                                  Base INSS 13º - Env       0,00                                                                    
+------------------------------------------------------------------------------------------------------------------------------------
+2354 - Cauê Oliveira                                   CHEFE DA ASSESSORIA JURÍDICA              Ativo                      
+02/12/2019                          8.829,31   13.122.701.2.001.0001.03 - SuperintendêPR                                            
+                                                                                                                                     
+0002 DIAS TRABALHADOS                          30      8.829,31   0003 I.N.S.S.                                  14        877,22  
+0556 UNIFACIL ENFERMARIA TITULAR                0        139,62 B 0004 I.R.R.F.                                27,5      1.265,32  
+0557 UNIFACIL ENFERMARIA DEPENDENTES            0        139,62 B 0562 UNIFACIL ENFERMARIA                        0        279,23  
+                                                                  0576 COPARTICIPAÇÃO - ASSIST. MÉDICA            0        255,00  
+                                                                                                                                     
+Proventos             8.829,31    Descontos             2.676,77    Líquido               6.152,54                                  
+FGTS Dep.               706,34    INSS Empresa          1.765,86    Base IRRF             8.829,31                                  
+FGTS 13º Dep.             0,00    INSS SAT                 88,29    Base IRRF 13º             0,00                                  
+FGTS Dep. (SEFIP)       706,34    INSS Terceiro           397,32    Base IRRF Férias          0,00                                  
+FGTS 13º Dep. (SEFI       0,00    INSS Total (Emp+SAT   2.251,47                                                                    
+Base FGTS             8.829,31    INSS SAT Ajustado        44,15                                                                    
+Base FGTS 13º             0,00    INSS (Emp+SAT_Ajust   2.207,33                                                                    
+Base FGTS (SEFIP)     8.829,31    INSS Segurado           877,22                                                                    
+Base FGTS 13º (SEFI       0,00    Estorno INSS              0,00                                                                    
+Base FGTS Afast.          0,00    Base INSS - GPS       8.829,31                                                                    
+                                  Base INSS - Envelop   8.829,31                                                                    
+                                  Base INSS 13º - GPS       0,00                                                                    
+                                  Base INSS 13º - Env       0,00                                                                    
+------------------------------------------------------------------------------------------------------------------------------------
+1345 - Mariane Silveira                                      Operador de Continuidade                  Ativo                      
+01/02/2006                          2.365,23   13.722.125.2.039.0001.02 - Coordenação PR                                            
+                                                                                                                                     
+0002 DIAS TRABALHADOS                          28      2.207,55   0003 I.N.S.S.                                   9        188,09  
+0123 ADICIONAL NOTURNO                          6         31,54   0177 CONTRIB.ASSOCIATIVA RADIALISTA             0         22,08  
+0124 REFLEXO HORA EXTRA E AD. NOTURNO           0          7,59                                                                    
+0205 AUXÍLIO CRECHE                             1        256,20                                                                    
+0217 HE COMPL.HORA NOTURNA                      0         19,71                                                                    
+0044 FÉRIAS PAGAS NO MÊS ANTERIOR               2        182,24 B                                                                  
+0078 1/3 FÉRIAS PAGAS MÊS ANTERIOR              2         60,75 B                                                                  
+0260 INSS FERIAS DESC. MES ANTERIOR            12         18,22 B                                                                  
+0262 INSS FER.DESC.MES ANT.ALQ.NOR.            12         18,22 B                                                                  
+                                                                                                                                     
+Proventos             2.522,59    Descontos               210,17    Líquido               2.312,42                                  
+FGTS Dep.               200,75    INSS Empresa            501,88    Base IRRF             2.266,39                                  
+FGTS 13º Dep.             0,00    INSS SAT                 25,09    Base IRRF 13º             0,00                                  
+FGTS Dep. (SEFIP)       200,75    INSS Terceiro           112,92    Base IRRF Férias          0,00                                  
+FGTS 13º Dep. (SEFI       0,00    INSS Total (Emp+SAT     639,89                                                                    
+Base FGTS             2.509,38    INSS SAT Ajustado        12,55                                                                    
+Base FGTS 13º             0,00    INSS (Emp+SAT_Ajust     627,35                                                                    
+Base FGTS (SEFIP)     2.509,38    INSS Segurado           206,31                                                                    
+Base FGTS 13º (SEFI       0,00    Estorno INSS              0,00                                                                    
+Base FGTS Afast.          0,00    Base INSS - GPS       2.509,38                                                                    
+                                  Base INSS - Envelop   2.509,38                                                                    
+                                  Base INSS 13º - GPS       0,00                                                                    
+                                  Base INSS 13º - Env       0,00                                                                    
+------------------------------------------------------------------------------------------------------------------------------------
+2325 - Ana Carolina Silva                          ASSESSOR DA PRESIDÊNCIA                   Ativo                      
+09/05/2022                          3.081,68   13.122.701.2.001.0001.01 - Presidência PR                                            
+                                                                                                                                     
+0002 DIAS TRABALHADOS                          30      3.081,68   0003 I.N.S.S.                                  12        273,12  
+                                                                  0004 I.R.R.F.                                 7,5         53,62  
+                                                                                                                                     
+Proventos             3.081,68    Descontos               326,74    Líquido               2.754,94                                  
+FGTS Dep.               246,53    INSS Empresa            616,34    Base IRRF             3.081,68                                  
+FGTS 13º Dep.             0,00    INSS SAT                 30,82    Base IRRF 13º             0,00                                  
+FGTS Dep. (SEFIP)       246,53    INSS Terceiro           138,68    Base IRRF Férias          0,00                                  
+FGTS 13º Dep. (SEFI       0,00    INSS Total (Emp+SAT     785,83                                                                    
+Base FGTS             3.081,68    INSS SAT Ajustado        15,41                                                                    
+Base FGTS 13º             0,00    INSS (Emp+SAT_Ajust     770,42                                                                    
+Base FGTS (SEFIP)     3.081,68    INSS Segurado           273,12                                                                    
+Base FGTS 13º (SEFI       0,00    Estorno INSS              0,00                                                                    
+Base FGTS Afast.          0,00    Base INSS - GPS       3.081,68                                                                    
+                                  Base INSS - Envelop   3.081,68                                                                    
+                                  Base INSS 13º - GPS       0,00                                                                    
+                                  Base INSS 13º - Env       0,00                                                                    
+------------------------------------------------------------------------------------------------------------------------------------
+2135 - Guilherme Duarte                               RADIALISTA COMUNICADOR IB                 Ativo                      
+01/11/2005                          3.220,53   13.722.701.4.248.0001.05 - Coordenação PR                                            
+                                                                                                                                     
+0002 DIAS TRABALHADOS                          10      1.073,51   0003 I.N.S.S.                                  14        124,72  
+0039 ABONO DE FÉRIAS                           10      1.073,51   0030 I.R.R.F.  FÉRIAS                         7,5         52,96  
+0041 FÉRIAS NO MÊS                             20      2.147,02   0043 ADIANTAMENTO CONF. RECIBO                  0      3.988,56  
+0056 1/3 DE ABONO DE FÉRIAS                    10        357,84   0082 I.N.S.S. FÉRIAS                           14        252,52  
+0076 1/3 FÉRIAS NO MÊS                         20        715,67   0562 UNIFACIL ENFERMARIA                        0        161,60  
+0090 INSS FÉRIAS UTIL. P/ DEDUCAO IRRF         14        252,52 B 0576 COPARTICIPAÇÃO - ASSIST. MÉDICA            0         25,00  
+0556 UNIFACIL ENFERMARIA TITULAR                0        161,60 B                                                                  
+0602 BASE DE IRRF FÉRIAS ENVELOPE               0      2.862,69 B                                                                  
+398  BASE DE ABONO FÉRIAS ENVELOPE              0      1.431,35 B                                                                  
+                                                                                                                                     
+Proventos             5.367,55    Descontos             4.605,36    Líquido                 762,19                                  
+FGTS Dep.               314,90    INSS Empresa            787,24    Base IRRF             1.073,51                                  
+FGTS 13º Dep.             0,00    INSS SAT                 39,36    Base IRRF 13º             0,00                                  
+FGTS Dep. (SEFIP)       314,90    INSS Terceiro           177,13    Base IRRF Férias      2.862,69                                  
+FGTS 13º Dep. (SEFI       0,00    INSS Total (Emp+SAT   1.003,73                                                                    
+Base FGTS             3.936,20    INSS SAT Ajustado        19,68                                                                    
+Base FGTS 13º             0,00    INSS (Emp+SAT_Ajust     984,05                                                                    
+Base FGTS (SEFIP)     3.936,20    INSS Segurado           377,24                                                                    
+Base FGTS 13º (SEFI       0,00    Estorno INSS              0,00                                                                    
+Base FGTS Afast.          0,00    Base INSS - GPS       3.936,20                                                                    
+                                  Base INSS - Envelop   3.936,20                                                                    
+                                  Base INSS 13º - GPS       0,00                                                                    
+                                  Base INSS 13º - Env       0,00                                                                    
+------------------------------------------------------------------------------------------------------------------------------------
+2325 - Ana Clara da Mota                                  Operador de Central                       Ativo                      
+09/03/2006                          2.365,23   13.722.125.2.039.0001.02 - Coordenação PR                                            
+                                                                                                                                     
+0002 DIAS TRABALHADOS                          28      2.207,55   0003 I.N.S.S.                                  12        196,62  
+0395 DIA EM DOBRO(HORAS)                        6        157,68   0006 VALE TRANSPORTE                            6        132,45  
+0044 FÉRIAS PAGAS NO MÊS ANTERIOR               2        157,68 B 0562 UNIFACIL ENFERMARIA                        0        392,22  
+0078 1/3 FÉRIAS PAGAS MÊS ANTERIOR              2         52,56 B                                                                  
+0260 INSS FERIAS DESC. MES ANTERIOR            12         15,76 B                                                                  
+0262 INSS FER.DESC.MES ANT.ALQ.NOR.            12         15,76 B                                                                  
+0461 TOTAL CALCULADO PARA COMPRA DE VALE TR     0        297,00 B                                                                  
+0556 UNIFACIL ENFERMARIA TITULAR                0        392,22 B                                                                  
+                                                                                                                                     
+Proventos             2.365,23    Descontos               721,29    Líquido               1.643,94                                  
+FGTS Dep.               206,04    INSS Empresa            515,09    Base IRRF             2.365,23                                  
+FGTS 13º Dep.             0,00    INSS SAT                 25,75    Base IRRF 13º             0,00                                  
+FGTS Dep. (SEFIP)       206,04    INSS Terceiro           115,90    Base IRRF Férias          0,00                                  
+FGTS 13º Dep. (SEFI       0,00    INSS Total (Emp+SAT     656,74                                                                    
+Base FGTS             2.575,47    INSS SAT Ajustado        12,88                                                                    
+Base FGTS 13º             0,00    INSS (Emp+SAT_Ajust     643,87                                                                    
+Base FGTS (SEFIP)     2.575,47    INSS Segurado           212,38                                                                    
+Base FGTS 13º (SEFI       0,00    Estorno INSS              0,00                                                                    
+Base FGTS Afast.          0,00    Base INSS - GPS       2.575,47                                                                    
+                                  Base INSS - Envelop   2.575,47                                                                    
+                                  Base INSS 13º - GPS       0,00                                                                    
+                                  Base INSS 13º - Env       0,00                                                                    
+------------------------------------------------------------------------------------------------------------------------------------
+1572 - Benjamin da Paz                           ASSISTENTE DE PROJETOS DE ENGENHARIA E EXPAtivo                      
+02/06/2022                          1.760,96   13.722.125.2.039.0001.01 - Diretoria TéPR                                            
+                                                                                                                                     
+0002 DIAS TRABALHADOS                          30      1.760,96   0003 I.N.S.S.                                   9        138,95  
+                                                                                                                                     
+Proventos             1.760,96    Descontos               138,95    Líquido               1.622,01                                  
+FGTS Dep.               140,88    INSS Empresa            352,19    Base IRRF             1.760,96                                  
+FGTS 13º Dep.             0,00    INSS SAT                 17,61    Base IRRF 13º             0,00                                  
+FGTS Dep. (SEFIP)       140,88    INSS Terceiro            79,24    Base IRRF Férias          0,00                                  
+FGTS 13º Dep. (SEFI       0,00    INSS Total (Emp+SAT     449,04                                                                    
+Base FGTS             1.760,96    INSS SAT Ajustado         8,80                                                                    
+Base FGTS 13º             0,00    INSS (Emp+SAT_Ajust     440,24                                                                    
+Base FGTS (SEFIP)     1.760,96    INSS Segurado           138,95                                                                    
+Base FGTS 13º (SEFI       0,00    Estorno INSS              0,00                                                                    
+Base FGTS Afast.          0,00    Base INSS - GPS       1.760,96                                                                    
+                                  Base INSS - Envelop   1.760,96                                                                    
+                                  Base INSS 13º - GPS       0,00                                                                    
+                                  Base INSS 13º - Env       0,00                                                                    
+------------------------------------------------------------------------------------------------------------------------------------
+1210 - Kaique da Costa                                        RADIALISTA COMUNICADOR IB                 Ativo                      
+01/10/2005                          3.220,53   13.722.701.4.248.0001.06 - Coordenação PR                                            
+                                                                                                                                     
+0002 DIAS TRABALHADOS                          30      3.220,53   0003 I.N.S.S.                                  12        289,78  
+0461 TOTAL CALCULADO PARA COMPRA DE VALE TR     0        198,00 B 0004 I.R.R.F.                                 7,5         48,56  
+                                                                  0006 VALE TRANSPORTE                            6        193,23  
+                                                                  0177 CONTRIB.ASSOCIATIVA RADIALISTA             0         32,21  
+                                                                                                                                     
+Proventos             3.220,53    Descontos               563,78    Líquido               2.656,75                                  
+FGTS Dep.               257,64    INSS Empresa            644,11    Base IRRF             3.220,53                                  
+FGTS 13º Dep.             0,00    INSS SAT                 32,21    Base IRRF 13º             0,00                                  
+FGTS Dep. (SEFIP)       257,64    INSS Terceiro           144,92    Base IRRF Férias          0,00                                  
+FGTS 13º Dep. (SEFI       0,00    INSS Total (Emp+SAT     821,24                                                                    
+Base FGTS             3.220,53    INSS SAT Ajustado        16,10                                                                    
+Base FGTS 13º             0,00    INSS (Emp+SAT_Ajust     805,13                                                                    
+Base FGTS (SEFIP)     3.220,53    INSS Segurado           289,78                                                                    
+Base FGTS 13º (SEFI       0,00    Estorno INSS              0,00                                                                    
+Base FGTS Afast.          0,00    Base INSS - GPS       3.220,53                                                                    
+                                  Base INSS - Envelop   3.220,53                                                                    
+                                  Base INSS 13º - GPS       0,00                                                                    
+                                  Base INSS 13º - Env       0,00                                                                    
+------------------------------------------------------------------------------------------------------------------------------------
+1112 - Isabella da Rocha                                   JORNALISTA IB                             Ativo                      
+16/06/2008                          3.220,53   13.722.701.4.248.0001.03 - Coordenação PR                                            
+                                                                                                                                     
+0002 DIAS TRABALHADOS                          30      3.220,53   0003 I.N.S.S.                                  12        315,55  
+0395 DIA EM DOBRO(HORAS)                        5        214,70   0004 I.R.R.F.                                 7,5         33,30  
+                                                                  0013 PENSÃO ALIMENTÍCIA JUDICIAL               25        771,59  
+                                                                                                                                     
+Proventos             3.435,23    Descontos             1.120,44    Líquido               2.314,79                                  
+FGTS Dep.               274,82    INSS Empresa            687,05    Base IRRF             2.663,64                                  
+FGTS 13º Dep.             0,00    INSS SAT                 34,35    Base IRRF 13º             0,00                                  
+FGTS Dep. (SEFIP)       274,82    INSS Terceiro           154,59    Base IRRF Férias          0,00                                  
+FGTS 13º Dep. (SEFI       0,00    INSS Total (Emp+SAT     875,98                                                                    
+Base FGTS             3.435,23    INSS SAT Ajustado        17,18                                                                    
+Base FGTS 13º             0,00    INSS (Emp+SAT_Ajust     858,81                                                                    
+Base FGTS (SEFIP)     3.435,23    INSS Segurado           315,55                                                                    
+Base FGTS 13º (SEFI       0,00    Estorno INSS              0,00                                                                    
+Base FGTS Afast.          0,00    Base INSS - GPS       3.435,23                                                                    
+                                  Base INSS - Envelop   3.435,23                                                                    
+                                  Base INSS 13º - GPS       0,00                                                                    
+                                  Base INSS 13º - Env       0,00                                                                    
+------------------------------------------------------------------------------------------------------------------------------------
+2514 - Noah Silva                         ASSISTENTE DE EDIÇÃO E FINALIZAÇÃO        Ativo                      
+16/05/2022                          1.760,96   13.722.701.4.248.0001.02 - Coordenação PR                                            
+                                                                                                                                     
+0002 DIAS TRABALHADOS                          30      1.760,96   0003 I.N.S.S.                                   9        123,10  
+                                                                  0008 FALTAS                                     3        176,10  
+                                                                                                                                     
+Proventos             1.760,96    Descontos               299,20    Líquido               1.461,76                                  
+FGTS Dep.               126,79    INSS Empresa            316,97    Base IRRF             1.584,86                                  
+FGTS 13º Dep.             0,00    INSS SAT                 15,85    Base IRRF 13º             0,00                                  
+FGTS Dep. (SEFIP)       126,79    INSS Terceiro            71,32    Base IRRF Férias          0,00                                  
+FGTS 13º Dep. (SEFI       0,00    INSS Total (Emp+SAT     404,14                                                                    
+Base FGTS             1.584,86    INSS SAT Ajustado         7,92                                                                    
+Base FGTS 13º             0,00    INSS (Emp+SAT_Ajust     396,22                                                                    
+Base FGTS (SEFIP)     1.584,86    INSS Segurado           123,10                                                                    
+Base FGTS 13º (SEFI       0,00    Estorno INSS            176,10                                                                    
+Base FGTS Afast.          0,00    Base INSS - GPS       1.584,86                                                                    
+                                  Base INSS - Envelop   1.584,86                                                                    
+                                  Base INSS 13º - GPS       0,00                                                                    
+                                  Base INSS 13º - Env       0,00                                                                    
+------------------------------------------------------------------------------------------------------------------------------------
+3685 - Thiago Fernandes                                   ASSISTENTE  DE CONVÊNIOS E PRESTAÇÃO DE COAtivo                      
+01/05/2022                          1.760,96   13.122.701.2.002.0001.01 - Diretoria AdPR                                            
+                                                                                                                                     
+0002 DIAS TRABALHADOS                          30      1.760,96   0003 I.N.S.S.                                   9        138,95  
+0558 UNIPART ENFERMARIA TITULAR                 0        191,64 B 0563 UNIPART ENFERMARIA                         0        191,64  
+                                                                  0576 COPARTICIPAÇÃO - ASSIST. MÉDICA            0         12,00  
+                                                                                                                                     
+Proventos             1.760,96    Descontos               342,59    Líquido               1.418,37                                  
+FGTS Dep.               140,88    INSS Empresa            352,19    Base IRRF             1.760,96                                  
+FGTS 13º Dep.             0,00    INSS SAT                 17,61    Base IRRF 13º             0,00                                  
+FGTS Dep. (SEFIP)       140,88    INSS Terceiro            79,24    Base IRRF Férias          0,00                                  
+FGTS 13º Dep. (SEFI       0,00    INSS Total (Emp+SAT     449,04                                                                    
+Base FGTS             1.760,96    INSS SAT Ajustado         8,80                                                                    
+Base FGTS 13º             0,00    INSS (Emp+SAT_Ajust     440,24                                                                    
+Base FGTS (SEFIP)     1.760,96    INSS Segurado           138,95                                                                    
+Base FGTS 13º (SEFI       0,00    Estorno INSS              0,00                                                                    
+Base FGTS Afast.          0,00    Base INSS - GPS       1.760,96                                                                    
+                                  Base INSS - Envelop   1.760,96                                                                    
+                                  Base INSS 13º - GPS       0,00                                                                    
+                                  Base INSS 13º - Env       0,00                                                                    
+------------------------------------------------------------------------------------------------------------------------------------
+====================================================================================================================================
+EMPRESA TESTE PROJETO                            FOLHA ANALITICA DEZEMBRO DE 2022                                     V.32.1.30.208
+                                                         Nome fantasia empresa Teste                       Emissão: 09/01/2023 18:53:55
+50.666.323/0001-21                                  Comp: 01/2023 - Cx: 0 - Per: 3                      Seção: 13
+====================================================================================================================================
+Chapa - Nome do Funcionário                                    Função                                    Situação                   
+Admissão      Demissão              Salário    Seção                                  Status Movimento   Início - Fim Últ. Afast.   
+------------------------------------------------------------------------------------------------------------------------------------
+2348 - João Guilherme Ferreira                     SUPERVISOR DE ESPORTES                    Ativo                      
+16/05/2022                          5.668,09   13.722.701.4.248.0001.01 - Diretoria ArPR                                            
+                                                                                                                                     
+0002 DIAS TRABALHADOS                          30      5.668,09   0003 I.N.S.S.                                  14        670,28  
+0123 ADICIONAL NOTURNO                          1         11,34   0004 I.R.R.F.                                22,5        225,77  
+0124 REFLEXO HORA EXTRA E AD. NOTURNO           0          2,73   0013 PENSÃO ALIMENTÍCIA JUDICIAL               15        769,99  
+0205 AUXÍLIO CRECHE                             1        256,20   0563 UNIPART ENFERMARIA                         0        691,17  
+0217 HE COMPL.HORA NOTURNA                      0          7,09   0576 COPARTICIPAÇÃO - ASSIST. MÉDICA            0        244,00  
+0395 DIA EM DOBRO(HORAS)                        6        340,09                                                                    
+0558 UNIPART ENFERMARIA TITULAR                 0        257,14 B                                                                  
+0559 UNIPART ENFERMARIA DEPENDENTES             0        434,04 B                                                                  
+                                                                                                                                     
+Proventos             6.285,54    Descontos             2.601,21    Líquido               3.684,33                                  
+FGTS Dep.               482,35    INSS Empresa          1.205,87    Base IRRF             5.259,35                                  
+FGTS 13º Dep.             0,00    INSS SAT                 60,29    Base IRRF 13º             0,00                                  
+FGTS Dep. (SEFIP)       482,35    INSS Terceiro           271,32    Base IRRF Férias          0,00                                  
+FGTS 13º Dep. (SEFI       0,00    INSS Total (Emp+SAT   1.537,48                                                                    
+Base FGTS             6.029,34    INSS SAT Ajustado        30,15                                                                    
+Base FGTS 13º             0,00    INSS (Emp+SAT_Ajust   1.507,34                                                                    
+Base FGTS (SEFIP)     6.029,34    INSS Segurado           670,28                                                                    
+Base FGTS 13º (SEFI       0,00    Estorno INSS              0,00                                                                    
+Base FGTS Afast.          0,00    Base INSS - GPS       6.029,34                                                                    
+                                  Base INSS - Envelop   6.029,34                                                                    
+                                  Base INSS 13º - GPS       0,00                                                                    
+                                  Base INSS 13º - Env       0,00                                                                    
+------------------------------------------------------------------------------------------------------------------------------------
+1178 - Bruno Barbosa                                GERENTE DE PROGRAMAÇÃO DE TV              Lic. Maternidade           
+09/06/2021                          8.053,61   13.122.701.2.001.0001.02 - Assessoria dPR                 06/12/2022  -04/04/2023-E  
+                                                                                                                                     
+0017 SALÁRIO MATERNIDADE                       31      8.053,61   0003 I.N.S.S.                                  14        877,22  
+0205 AUXÍLIO CRECHE                             1        256,20   0004 I.R.R.F.                                27,5      1.052,01  
+0560 UNIPART APARTAMENTO TITULAR                0        294,91 B 0564 UNIPART APARTAMENTO                        0        589,82  
+0561 UNIPART APARTAMENTO DEPENDENTES            0        294,91 B 0576 COPARTICIPAÇÃO - ASSIST. MÉDICA            0        244,00  
+                                                                                                                                     
+Proventos             8.309,81    Descontos             2.763,05    Líquido               5.546,76                                  
+FGTS Dep.               644,29    INSS Empresa              0,00    Base IRRF             8.053,61                                  
+FGTS 13º Dep.             0,00    INSS SAT                  0,00    Base IRRF 13º             0,00                                  
+FGTS Dep. (SEFIP)       644,29    INSS Terceiro             0,00    Base IRRF Férias          0,00                                  
+FGTS 13º Dep. (SEFI       0,00    INSS Total (Emp+SAT       0,00                                                                    
+Base FGTS             8.053,61    INSS SAT Ajustado         0,00                                                                    
+Base FGTS 13º             0,00    INSS (Emp+SAT_Ajust       0,00                                                                    
+Base FGTS (SEFIP)     8.053,61    INSS Segurado           877,22                                                                    
+Base FGTS 13º (SEFI       0,00    Estorno INSS              0,00                                                                    
+Base FGTS Afast.          0,00    Base INSS - GPS           0,00                                                                    
+                                  Base INSS - Envelop   8.053,61                                                                    
+                                  Base INSS 13º - GPS       0,00                                                                    
+                                  Base INSS 13º - Env       0,00                                                                    
+------------------------------------------------------------------------------------------------------------------------------------
+1347 - Lívia Fogaça                                SUPERVISOR DE OPERAÇÕES DE RÁDIO E TV     Ativo                      
+09/10/2006                          7.828,09   13.722.125.2.039.0001.02 - Coordenação PR                                            
+                                                                                                                                     
+0002 DIAS TRABALHADOS                          30      7.828,09   0003 I.N.S.S.                                  14        877,22  
+0132 PERICULOSIDADE                             0      2.348,43   0004 I.R.R.F.                                27,5      2.415,17  
+0254 VANTAGENS                                  0      2.834,05   0562 UNIFACIL ENFERMARIA                        0        350,33  
+0556 UNIFACIL ENFERMARIA TITULAR                0        188,73 B                                                                  
+0557 UNIFACIL ENFERMARIA DEPENDENTES            0        161,60 B                                                                  
+                                                                                                                                     
+Proventos            13.010,57    Descontos             3.642,72    Líquido               9.367,85                                  
+FGTS Dep.             1.040,85    INSS Empresa          2.602,11    Base IRRF            13.010,57                                  
+FGTS 13º Dep.             0,00    INSS SAT                130,11    Base IRRF 13º             0,00                                  
+FGTS Dep. (SEFIP)     1.040,85    INSS Terceiro           585,48    Base IRRF Férias          0,00                                  
+FGTS 13º Dep. (SEFI       0,00    INSS Total (Emp+SAT   3.317,70                                                                    
+Base FGTS            13.010,57    INSS SAT Ajustado        65,05                                                                    
+Base FGTS 13º             0,00    INSS (Emp+SAT_Ajust   3.252,64                                                                    
+Base FGTS (SEFIP)    13.010,57    INSS Segurado           877,22                                                                    
+Base FGTS 13º (SEFI       0,00    Estorno INSS              0,00                                                                    
+Base FGTS Afast.          0,00    Base INSS - GPS      13.010,57                                                                    
+                                  Base INSS - Envelop  13.010,57                                                                    
+                                  Base INSS 13º - GPS       0,00                                                                    
+                                  Base INSS 13º - Env       0,00                                                                    
+------------------------------------------------------------------------------------------------------------------------------------
+====================================================================================================================================
+EMPRESA TESTE PROJETO                            FOLHA ANALITICA DEZEMBRO DE 2022                                     V.32.1.30.208
+                                                         Nome fantasia empresa Teste                       Emissão: 09/01/2023 18:53:55
+50.666.323/0001-21                                  Comp: 01/2023 - Cx: 0 - Per: 3                      Seção: 13
+====================================================================================================================================
+                                                           TOTAIS DA SEÇÃO                                                           
+Cod  Descrição                            N.F.    Ref      Valor    Cod  Descrição                            N.F.    Ref      Valor
+------------------------------------------------------------------------------------------------------------------------------------
+0002 DIAS TRABALHADOS                   138    3845   519.412,26    0003 I.N.S.S.                           142       0    53.609,09  
+0017 SALÁRIO MATERNIDADE                2        59    11.334,11    0004 I.R.R.F.                           104       0    41.981,02  
+0020 ARREDONDAMENTO                     1         0       836,48    0006 VALE TRANSPORTE                    26      156     3.776,12  
+0039 ABONO DE FÉRIAS                    4        40     5.125,35    0008 FALTAS                             1         3       176,10  
+0041 FÉRIAS NO MÊS                      17      264    38.623,60    0010 ATRASOS E SAID.ANTECIPADA          1     30,78       271,04 ...
+...
+...
+...
+...
+...
+...
+...
+
+------------------------------------------------------------------------------------------------------------------------------------
+Proventos                        68.630,27   Descontos                        28.206,03   Líquido                          47.343.23
+FGTS Dep.                        51.438,35   INSS Empresa                    126.280,48   Base IRRF                       680.207,51
+FGTS 13º Dep.                         0,00   INSS SAT                          6.314,02   Base IRRF 13º                         0,00
+FGTS Dep. (SEFIP)                51.438,35   INSS Terceiro                    28.413,11   Base IRRF Férias                 58.035,33
+FGTS 13º Dep. (SEFIP)                 0,00   INSS Total (Emp+SAT+Terc)       161.007,61   Num. Depend. IRRF                    78,00
+Base FGTS                       642.978,65   INSS SAT Ajustado                 3.157,01                                             
+Base FGTS 13º                         0,00   INSS (Emp+SAT_Ajust+Terc)       157.850,60                                             
+Base FGTS (SEFIP)               642.978,65   INSS Segurado                    63.033,66                                             
+Base FGTS 13º (SEFIP)                 0,00   Estorno INSS                        447,14                                             
+Base FGTS Afast.                      0,00   Base INSS - GPS                 631.402,41                                             
+                                             Base INSS - Envelope            642.978,65                                             
+                                             Base INSS 13º - GPS                   0,00                                             
+                                             Base INSS 13º - Envelope              0,00                                             
+------------------------------------------------------------------------------------------------------------------------------------
+Ativos:                                147   Demitidos:                               0   Lic.Maternidade:                         1
+Serv. Militar:                           0   Af. Previdência:                         0   Aviso Prévio:                            1
+Férias:                                  5   Af. Ac. Trabalho:                        0   Lic. Sem Vecto.:                         0
+Outros:                                  0   Lic. Remunerada:                         0   C/ Dem. Mês:                             0
+Funcs:                                 154   Transf. No Mês:                          0   C/ Resc. Compl.:                         0
+Apos. Incapac. Permanente:               0
+------------------------------------------------------------------------------------------------------------------------------------
+
